@@ -183,7 +183,7 @@ button:focus { outline: none; }
 .cd-slider-nav .nav-item:nth-of-type(5) .nav-link:hover,
 .cd-slider-nav .nav-item:nth-of-type(5) .nav-link:focus {
 	
-	background-color: #447fca;		
+	background-color: #ff6088;		
 }
 
 .tm-bg-white-translucent { background-color: rgba(255,255,255,0.8); }
@@ -425,9 +425,9 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
     font-size: 1.8rem;
     font-weight: 400;
 	text-align: center;
-    padding: 30px;
+    padding: 25px;
     width: 100%;
-	height: 140px;
+	height: 120px;
 }
 
 .tm-copyright-text a {
