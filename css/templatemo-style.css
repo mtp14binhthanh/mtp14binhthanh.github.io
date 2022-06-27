@@ -90,6 +90,9 @@ a:focus {
 }
 
 .navbar-toggler {
+	width: auto;
+	font-weight: 600;
+	color: rgb(219, 0, 0);
 	float: right;
 	font-size: 1.75rem;
 	padding: 0.75rem;
